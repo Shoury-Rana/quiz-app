@@ -1,0 +1,32 @@
+#main {
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+#progress {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    margin: 5px;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.opt-btn {
+    display: block;
+}
+
+.correct {
+    background-color: lightgreen;
+}
+
+.incorrect {
+    background-color: pink;
+}

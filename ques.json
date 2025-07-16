@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Trainer Marking Language",
+      "Hyper Text Markup Language",
+      "Hyper Text Marketing Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which data structure uses FIFO (First In First Out)?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": [
+      "let",
+      "const",
+      "var",
+      "define"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(n^2)"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Creative Style Syntax",
+      "Computer Style Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which protocol is used to fetch web pages?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTP",
+      "IP"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the full form of CPU?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Processing Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which one is not a primitive data type in JavaScript?",
+    "options": [
+      "Boolean",
+      "Number",
+      "String",
+      "Object"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is used to style HTML?",
+    "options": [
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "Python"
+    ],
+    "answer": 0
+  }
+]
